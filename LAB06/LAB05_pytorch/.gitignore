@@ -1,0 +1,12 @@
+# Archivos de datos pesados
+*.npz
+*.csv
+
+# Checkpoints y pesos del modelo
+*.pt
+*.pth
+
+# Archivos de entorno y temporales
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
